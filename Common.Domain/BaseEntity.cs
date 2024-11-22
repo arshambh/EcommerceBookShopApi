@@ -15,7 +15,7 @@ namespace Comman.Domain
 
     public class AggregateRoot : BaseEntity
     {
-        private readonly List<BaseDomainEvent> _domainEvents = new List<BaseDomainEvent>();
+        private readonly List<BaseDomainEvent> _domainEvents = [];
 
         [NotMapped]
         public List<BaseDomainEvent> DomainEvents => _domainEvents;

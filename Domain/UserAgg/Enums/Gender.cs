@@ -1,6 +1,8 @@
 ﻿namespace Domain.UserAgg.Enums;
 
-public class Gender
+public enum Gender
 {
-    
+    None,
+    Male,
+    Female
 }
