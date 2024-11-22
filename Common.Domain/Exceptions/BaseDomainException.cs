@@ -1,4 +1,4 @@
-﻿namespace Clean_arch.Domain.Shared.Exceptions
+﻿namespace Comman.Domain.Exceptions
 {
     public class BaseDomainException : Exception
     {
