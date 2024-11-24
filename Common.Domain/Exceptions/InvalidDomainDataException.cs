@@ -1,4 +1,6 @@
-﻿namespace Comman.Domain.Exceptions
+﻿using Common.Domain.Exceptions;
+
+namespace Comman.Domain.Exceptions
 {
     public class InvalidDomainDataException : BaseDomainException
     {

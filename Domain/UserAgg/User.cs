@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Comman.Domain;
 using Comman.Domain.Exceptions;
+using Common.Domain;
 using Domain.UserAgg.Enums;
+using Domain.UserAgg.Services;
 
 namespace Domain.UserAgg
 {

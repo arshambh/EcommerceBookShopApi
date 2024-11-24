@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace Comman.Domain
+namespace Common.Domain
 {
     public class BaseDomainEvent : INotification
     {

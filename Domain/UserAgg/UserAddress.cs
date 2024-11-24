@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Comman.Domain.Exceptions;
+using Common.Domain;
+using Common.Domain.Exceptions;
 
 namespace Domain.UserAgg
 {

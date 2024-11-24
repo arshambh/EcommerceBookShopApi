@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using Comman.Domain;
 
-namespace Comman.Domain
+namespace Common.Domain
 {
     public class BaseEntity
     {
